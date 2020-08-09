@@ -4,3 +4,4 @@ python-gcm
 gunicorn
 psycopg2
 django-filter
+drf-yasg

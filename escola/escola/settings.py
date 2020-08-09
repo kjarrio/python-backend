@@ -24,6 +24,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'estudantes.apps.EstudantesConfig',
     'django_filters',
+    'drf_yasg',
 ]
 
 MIDDLEWARE = [
