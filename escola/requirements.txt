@@ -3,3 +3,4 @@ djangorestframework
 python-gcm
 gunicorn
 psycopg2
+django-filter
