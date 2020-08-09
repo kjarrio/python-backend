@@ -1,3 +1,4 @@
 from django.contrib import admin
+from escola.estudantes.models import Estudante
 
-# Register your models here.
+admin.site.register(Estudante)
