@@ -1,0 +1,67 @@
+[
+  {
+    "model": "estudantes.estudante",
+    "fields": {
+      "id": 1,
+      "data_cadastro": "2020-04-30",
+      "nome": "Sabrina Sueli Nunes",
+      "cpf": "878.746.762-38",
+      "rg": "38.845.956-6",
+      "email": "sabrinasuelinunes_@owl-ti.com.br",
+      "celular": "(84) 99626-4590",
+      "data_nascimento": "1947-10-25"
+    }
+  },
+  {
+    "model": "estudantes.estudante",
+    "fields": {
+      "id": 2,
+      "data_cadastro": "2020-05-04",
+      "nome": "Rafael Eduardo Severino Araújo",
+      "cpf": "018.168.099-85",
+      "rg": "11.607.583-1",
+      "email": "rafaeleduardoseverinoaraujo-97@validtecnologia.com.br",
+      "celular": "(82) 98896-8015",
+      "data_nascimento": "1974-11-12"
+    }
+  },
+  {
+    "model": "estudantes.estudante",
+    "fields": {
+      "id": 3,
+      "data_cadastro": "2020-06-01",
+      "nome": "Liz Sebastiana Fogaça",
+      "cpf": "024.289.889-05",
+      "rg": "24.546.769-5",
+      "email": "llizsebastianafogaca@bsd.com.br",
+      "celular": "(79) 99673-0904",
+      "data_nascimento": "1981-05-20"
+    }
+  },
+  {
+    "model": "estudantes.estudante",
+    "fields": {
+      "id": 4,
+      "data_cadastro": "2020-06-05",
+      "nome": "Mirella Ester Regina Duarte",
+      "cpf": "728.038.175-86",
+      "rg": "16.412.829-3",
+      "email": "mirellaesterreginaduarte-74@fabianocosta.com.br",
+      "celular": "(91) 99929-8214",
+      "data_nascimento": "1990-05-12"
+    }
+  },
+  {
+    "model": "estudantes.estudante",
+    "fields": {
+      "id": 5,
+      "data_cadastro": "2020-06-20",
+      "nome": "Vicente Bento Sérgio Aragão",
+      "cpf": "367.349.593-33",
+      "rg": "29.663.550-9",
+      "email": "vicentebentosergioaragao-85@agenziamarketing.com.br",
+      "celular": "(28) 99372-8074",
+      "data_nascimento": "1974-11-13"
+    }
+  }
+]
