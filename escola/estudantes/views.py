@@ -16,6 +16,6 @@ class EstudanteViewSet(viewsets.ModelViewSet):
 
     # Filters
     filter_backends = [DjangoFilterBackend, SearchFilter, OrderingFilter]
-    filterset_fields = ['cpf', 'rg', 'email']
-    search_fields = ['nome', 'email']
-    ordering_fields = ['id', 'nome', 'email']
+    filterset_fields = ['nome', 'cpf', 'rg', 'celular']
+    search_fields = ['nome', 'cpf', 'rg', 'celular']
+    ordering_fields = ['id', 'nome', 'email', 'celular', 'data_nascimento']
